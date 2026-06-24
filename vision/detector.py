@@ -3,7 +3,7 @@ import cv2
 class ArUcoDetector:
     def __init__(self):
         # DICT_4X4_50: 4x4 bits, hasta 50 IDs distintos. Perfecto para nosotros.
-        self.aruco_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_4X4_50)
+        self.aruco_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_4X4_250)
         self.parameters = cv2.aruco.DetectorParameters()
         self.detector = cv2.aruco.ArucoDetector(self.aruco_dict, self.parameters)
 
