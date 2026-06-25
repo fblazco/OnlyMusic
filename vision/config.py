@@ -1,5 +1,5 @@
 REFERENCE_IDS = [0, 1, 2, 3]
-POINTER_ID = 4
+POINTER_ID = 10
 
 GENRES = {
     100: "Rock",

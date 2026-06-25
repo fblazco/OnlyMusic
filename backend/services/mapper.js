@@ -7,7 +7,8 @@ const genres = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/genres.j
 const musicData = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/musicData.json'), 'utf-8'));
 
 function processVisionData(x, y, genreId) {
-  let activeCountry = null;
+  let activeCountryId = null; 
+  let activeCountryName = null;
   let activeGenre = genres[genreId] || null;
 
   // 1. Encontrar en qué país está el puntero
@@ -16,21 +17,22 @@ function processVisionData(x, y, genreId) {
       x >= country.bounds.minX && x <= country.bounds.maxX &&
       y >= country.bounds.minY && y <= country.bounds.maxY
     ) {
-      activeCountry = country.name;
+      activeCountryId = country.id;      // <-- CLAVE: Usamos el ID (Ej: "CL") para buscar en la base de datos
+      activeCountryName = country.name;  // Guardamos el nombre para la web
       break;
     }
   }
 
-  // 2. Buscar la información musical si tenemos ambos datos
+  // 2. Buscar la información musical usando el ID del país
   let trackInfo = null;
-  if (activeCountry && activeGenre && musicData[activeCountry] && musicData[activeCountry][activeGenre]) {
-    trackInfo = musicData[activeCountry][activeGenre];
+  if (activeCountryId && activeGenre && musicData[activeCountryId] && musicData[activeCountryId][activeGenre]) {
+    trackInfo = musicData[activeCountryId][activeGenre];
   }
 
   // 3. Retornar el estado completo listo para React
   return {
     pointer: { x, y },
-    country: activeCountry,
+    country: activeCountryName, // Enviamos el nombre bonito ("Chile")
     genre: activeGenre,
     music: trackInfo
   };
