@@ -1,8 +1,62 @@
+import { useRef, useEffect } from 'react';
 import { useWebSocket } from './hooks/useWebSocket';
 import './App.css';
 
 function App() {
   const { appState, isConnected, videoFrame } = useWebSocket();
+
+  // Referencia para recordar qué país/género estábamos tocando y no repetir el audio
+  const previousSelection = useRef({ country: null, genre: null });
+
+  // Efecto que reacciona a los cambios musicales
+  useEffect(() => {
+    const currentCountry = appState.country;
+    const currentGenre = appState.genre;
+    const currentCategory = appState.category;
+
+    // Si tenemos país, género y categoría válidos
+    if (currentCountry && currentGenre && currentCategory) {
+      
+      // SOLO reproducir si el usuario apuntó a una combinación distinta a la anterior
+      if (
+        currentCountry !== previousSelection.current.country || 
+        currentGenre !== previousSelection.current.genre
+      ) {
+        
+        // 1. Actualizamos la memoria
+        previousSelection.current = { country: currentCountry, genre: currentGenre };
+
+        // 2. Elegimos el archivo de sonido según el cuartil
+        let audioFile = '';
+        switch(currentCategory) {
+          case 'Alto': 
+            audioFile = '/sounds/alto.mp3'; 
+            break;
+          case 'Medio-alto': 
+            audioFile = '/sounds/medio-alto.mp3'; 
+            break;
+          case 'Medio-bajo': 
+            audioFile = '/sounds/medio-bajo.mp3'; 
+            break;
+          case 'Bajo': 
+            audioFile = '/sounds/bajo.mp3'; 
+            break;
+          default:
+            break;
+        }
+
+        // 3. ¡Lo hacemos sonar!
+        if (audioFile) {
+          const audio = new Audio(audioFile);
+          audio.volume = 0.5; // Volumen al 50% para que no asuste
+          audio.play().catch(err => console.log("El navegador bloqueó el audio automático. Haz click en la página una vez.", err));
+        }
+      }
+    } else if (!currentCountry || !currentGenre) {
+      // Si el usuario levanta los ArUcos o sale del mapa, reseteamos la memoria
+      previousSelection.current = { country: null, genre: null };
+    }
+  }, [appState.country, appState.genre, appState.category]);
 
   return (
     <div className="container">
@@ -123,10 +177,18 @@ function App() {
                 Top 10 de {appState.genre} en {appState.country}
               </h2>
 
-              <p style={{ marginBottom: '10px' }}>
+              <p style={{ marginBottom: '5px' }}>
                 <strong>Total Streams:</strong>{' '}
                 {appState.music.total_streams.toLocaleString()}
               </p>
+              
+              {/* Aquí mostramos la categoría calculada */}
+              {appState.category && (
+                <p style={{ marginBottom: '10px' }}>
+                  <strong>Nivel de popularidad:</strong>{' '}
+                  <span style={{ color: '#e91e63', fontWeight: 'bold' }}>{appState.category}</span>
+                </p>
+              )}
 
               {appState.music.is_mock && (
                 <p style={{ color: '#ff9800' }}>

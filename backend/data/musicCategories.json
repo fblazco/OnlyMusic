@@ -1,0 +1,4160 @@
+{
+    "CL": {
+        "Latin": {
+            "total_streams": 8054152,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 10473852,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 5690465,
+            "category": "Bajo"
+        },
+        "K-Pop": {
+            "total_streams": 8085502,
+            "category": "Medio-alto"
+        },
+        "Folk Pop": {
+            "total_streams": 9008233,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 10541085,
+            "category": "Alto"
+        },
+        "Grunge": {
+            "total_streams": 6731091,
+            "category": "Medio-bajo"
+        },
+        "Britpop": {
+            "total_streams": 9761833,
+            "category": "Alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 8750735,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 7108563,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 6492476,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 5626661,
+            "category": "Bajo"
+        },
+        "Country": {
+            "total_streams": 6608460,
+            "category": "Medio-bajo"
+        },
+        "Dancehall": {
+            "total_streams": 4470801,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 11156083,
+            "category": "Alto"
+        },
+        "Indie Rock": {
+            "total_streams": 6694472,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 10641131,
+            "category": "Alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 5891004,
+            "category": "Bajo"
+        },
+        "Pop": {
+            "total_streams": 5887421,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 5967000,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 5683422,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 7887912,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 5148151,
+            "category": "Bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 9039120,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 4977237,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 8739557,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 7276264,
+            "category": "Medio-bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 11355862,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 3433895,
+            "category": "Bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 6914028,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 7304078,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 8397028,
+            "category": "Medio-alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 8853886,
+            "category": "Alto"
+        },
+        "Pop Soul": {
+            "total_streams": 4052323,
+            "category": "Bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 7039309,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 5992801,
+            "category": "Medio-bajo"
+        },
+        "Toronto": {
+            "total_streams": 8795849,
+            "category": "Alto"
+        },
+        "Girl Group": {
+            "total_streams": 6916637,
+            "category": "Medio-bajo"
+        }
+    },
+    "AR": {
+        "Latin": {
+            "total_streams": 8282049,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 6728006,
+            "category": "Medio-bajo"
+        },
+        "Dance": {
+            "total_streams": 5112930,
+            "category": "Bajo"
+        },
+        "K-Pop": {
+            "total_streams": 6931690,
+            "category": "Medio-bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 6115834,
+            "category": "Medio-bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6460932,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 4255071,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 7031755,
+            "category": "Medio-bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 5443693,
+            "category": "Bajo"
+        },
+        "Electronic": {
+            "total_streams": 7260224,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 7573643,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 9400913,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 9987025,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 7697615,
+            "category": "Medio-alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 5968981,
+            "category": "Medio-bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 8802053,
+            "category": "Alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 6284170,
+            "category": "Medio-bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7488007,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 7077121,
+            "category": "Medio-bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 8442736,
+            "category": "Medio-alto"
+        },
+        "Nu Metal": {
+            "total_streams": 5263894,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 5894028,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 9154907,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 5846855,
+            "category": "Bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 4922451,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 5334000,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 4817171,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 6185637,
+            "category": "Medio-bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 7753902,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 8474743,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6431525,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 7882424,
+            "category": "Medio-alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 5812583,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 10248174,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 5656964,
+            "category": "Bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 6820043,
+            "category": "Medio-bajo"
+        },
+        "Toronto": {
+            "total_streams": 8193944,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 7810564,
+            "category": "Medio-alto"
+        }
+    },
+    "BR": {
+        "Latin": {
+            "total_streams": 9317392,
+            "category": "Alto"
+        },
+        "Rap": {
+            "total_streams": 4456754,
+            "category": "Bajo"
+        },
+        "Dance": {
+            "total_streams": 10912522,
+            "category": "Alto"
+        },
+        "K-Pop": {
+            "total_streams": 7003562,
+            "category": "Medio-bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 4955948,
+            "category": "Bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6373471,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 7521992,
+            "category": "Medio-alto"
+        },
+        "Britpop": {
+            "total_streams": 9094322,
+            "category": "Alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 3829852,
+            "category": "Bajo"
+        },
+        "Electronic": {
+            "total_streams": 8051466,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 9687298,
+            "category": "Alto"
+        },
+        "Uk Garage": {
+            "total_streams": 10092159,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 8887410,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 7706634,
+            "category": "Medio-alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 5568887,
+            "category": "Bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 6963191,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 8595731,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7343357,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 6666299,
+            "category": "Medio-bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 8795311,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 6325421,
+            "category": "Medio-bajo"
+        },
+        "Soul": {
+            "total_streams": 10202511,
+            "category": "Alto"
+        },
+        "Reggaeton": {
+            "total_streams": 5226520,
+            "category": "Bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 4781883,
+            "category": "Bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 7028417,
+            "category": "Medio-bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 8023761,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 10040824,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 8753076,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 6299968,
+            "category": "Medio-bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 8673475,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 5493028,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 6414586,
+            "category": "Medio-bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 6691506,
+            "category": "Medio-bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 10905133,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 9889408,
+            "category": "Alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 4775808,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 5009650,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 9223291,
+            "category": "Alto"
+        }
+    },
+    "PE": {
+        "Latin": {
+            "total_streams": 11160759,
+            "category": "Alto"
+        },
+        "Rap": {
+            "total_streams": 5656911,
+            "category": "Bajo"
+        },
+        "Dance": {
+            "total_streams": 7610718,
+            "category": "Medio-alto"
+        },
+        "K-Pop": {
+            "total_streams": 10126616,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 4019361,
+            "category": "Bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 8049056,
+            "category": "Medio-alto"
+        },
+        "Grunge": {
+            "total_streams": 5905653,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 7469669,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 7073750,
+            "category": "Medio-bajo"
+        },
+        "Electronic": {
+            "total_streams": 7230576,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 8205503,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 6368226,
+            "category": "Medio-bajo"
+        },
+        "Country": {
+            "total_streams": 6284095,
+            "category": "Medio-bajo"
+        },
+        "Dancehall": {
+            "total_streams": 10412300,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 6372267,
+            "category": "Medio-bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 8039848,
+            "category": "Medio-alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 9854922,
+            "category": "Alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7133048,
+            "category": "Medio-bajo"
+        },
+        "Pop": {
+            "total_streams": 5842900,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 10455667,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 6888825,
+            "category": "Medio-bajo"
+        },
+        "Soul": {
+            "total_streams": 6453993,
+            "category": "Medio-bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 9925094,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 10623426,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 5453112,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 8433362,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 9175554,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 9321366,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 7771127,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 4088861,
+            "category": "Bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6611246,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 9032308,
+            "category": "Alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 8458173,
+            "category": "Medio-alto"
+        },
+        "Pop Soul": {
+            "total_streams": 6780766,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 9014317,
+            "category": "Alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 7554551,
+            "category": "Medio-alto"
+        },
+        "Toronto": {
+            "total_streams": 10113709,
+            "category": "Alto"
+        },
+        "Girl Group": {
+            "total_streams": 11384410,
+            "category": "Alto"
+        }
+    },
+    "CO": {
+        "Latin": {
+            "total_streams": 1380148,
+            "category": "Bajo"
+        },
+        "Rap": {
+            "total_streams": 7682439,
+            "category": "Medio-alto"
+        },
+        "Dance": {
+            "total_streams": 8307814,
+            "category": "Medio-alto"
+        },
+        "K-Pop": {
+            "total_streams": 8040956,
+            "category": "Medio-alto"
+        },
+        "Folk Pop": {
+            "total_streams": 8257884,
+            "category": "Medio-alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 8529314,
+            "category": "Medio-alto"
+        },
+        "Grunge": {
+            "total_streams": 6988088,
+            "category": "Medio-bajo"
+        },
+        "Britpop": {
+            "total_streams": 8558832,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 5409944,
+            "category": "Bajo"
+        },
+        "Electronic": {
+            "total_streams": 1708412,
+            "category": "Bajo"
+        },
+        "New Wave": {
+            "total_streams": 6476043,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 8930202,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 6412117,
+            "category": "Medio-bajo"
+        },
+        "Dancehall": {
+            "total_streams": 7737792,
+            "category": "Medio-alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 5241869,
+            "category": "Bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 7117429,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 4841479,
+            "category": "Bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 8602060,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 1330852,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 7010774,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 7127218,
+            "category": "Medio-bajo"
+        },
+        "Soul": {
+            "total_streams": 7645703,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 1540953,
+            "category": "Bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 7274501,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 6073984,
+            "category": "Medio-bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 6018453,
+            "category": "Medio-bajo"
+        },
+        "R&B": {
+            "total_streams": 8137405,
+            "category": "Medio-alto"
+        },
+        "Soundtrack": {
+            "total_streams": 7510963,
+            "category": "Medio-alto"
+        },
+        "Indie Pop": {
+            "total_streams": 4128213,
+            "category": "Bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 7725163,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 7114316,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 6500481,
+            "category": "Medio-bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 7761463,
+            "category": "Medio-alto"
+        },
+        "Pop Soul": {
+            "total_streams": 8682590,
+            "category": "Medio-alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 9341598,
+            "category": "Alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 6442952,
+            "category": "Medio-bajo"
+        },
+        "Toronto": {
+            "total_streams": 8274931,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 7117903,
+            "category": "Medio-bajo"
+        }
+    },
+    "MX": {
+        "Latin": {
+            "total_streams": 6980651,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 5330880,
+            "category": "Bajo"
+        },
+        "Dance": {
+            "total_streams": 6626963,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 4616832,
+            "category": "Bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 5807482,
+            "category": "Bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6739056,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 8922178,
+            "category": "Alto"
+        },
+        "Britpop": {
+            "total_streams": 7097918,
+            "category": "Medio-bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 10420603,
+            "category": "Alto"
+        },
+        "Electronic": {
+            "total_streams": 8352846,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 7032831,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 10515383,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 10668890,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 5101289,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 7524353,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 5507387,
+            "category": "Bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 5990771,
+            "category": "Medio-bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 9707972,
+            "category": "Alto"
+        },
+        "Pop": {
+            "total_streams": 4118126,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 8445436,
+            "category": "Medio-alto"
+        },
+        "Nu Metal": {
+            "total_streams": 5871964,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 7693634,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 8912938,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 11315005,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 8803549,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 5317703,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 11579845,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 7780205,
+            "category": "Medio-alto"
+        },
+        "Indie Pop": {
+            "total_streams": 8099934,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 9267322,
+            "category": "Alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 2860316,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 5887372,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 7501886,
+            "category": "Medio-alto"
+        },
+        "Pop Soul": {
+            "total_streams": 9146300,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 6505569,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 5866867,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 5517178,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 9291544,
+            "category": "Alto"
+        }
+    },
+    "US": {
+        "Latin": {
+            "total_streams": 8456479,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 5135217,
+            "category": "Bajo"
+        },
+        "Dance": {
+            "total_streams": 8763792,
+            "category": "Alto"
+        },
+        "K-Pop": {
+            "total_streams": 8980623,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 2956839,
+            "category": "Bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 1466813,
+            "category": "Bajo"
+        },
+        "Grunge": {
+            "total_streams": 2678263,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 7872820,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 9993132,
+            "category": "Alto"
+        },
+        "Electronic": {
+            "total_streams": 7300179,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 7963503,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 8985771,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 2169091,
+            "category": "Bajo"
+        },
+        "Dancehall": {
+            "total_streams": 4875532,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 9657677,
+            "category": "Alto"
+        },
+        "Indie Rock": {
+            "total_streams": 1368186,
+            "category": "Bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 4108838,
+            "category": "Bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 5026111,
+            "category": "Bajo"
+        },
+        "Pop": {
+            "total_streams": 61483508,
+            "category": "Alto"
+        },
+        "Hip Hop": {
+            "total_streams": 6739089,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 2998438,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 1203160,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 9100292,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 10394902,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 1507387,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 1367839,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 1294677,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 1326162,
+            "category": "Bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 12901895,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 5960619,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 7558538,
+            "category": "Medio-alto"
+        },
+        "Rock": {
+            "total_streams": 2747172,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 5342490,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 7923974,
+            "category": "Medio-alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 6538714,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 8223513,
+            "category": "Medio-alto"
+        },
+        "Toronto": {
+            "total_streams": 8528816,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 1850006,
+            "category": "Bajo"
+        }
+    },
+    "CA": {
+        "Latin": {
+            "total_streams": 8291299,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 8870799,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 8431773,
+            "category": "Medio-alto"
+        },
+        "K-Pop": {
+            "total_streams": 7423236,
+            "category": "Medio-alto"
+        },
+        "Folk Pop": {
+            "total_streams": 4677226,
+            "category": "Bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 7688820,
+            "category": "Medio-alto"
+        },
+        "Grunge": {
+            "total_streams": 6077657,
+            "category": "Medio-bajo"
+        },
+        "Britpop": {
+            "total_streams": 5483804,
+            "category": "Bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 8544526,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 5849211,
+            "category": "Bajo"
+        },
+        "New Wave": {
+            "total_streams": 9940043,
+            "category": "Alto"
+        },
+        "Uk Garage": {
+            "total_streams": 6352925,
+            "category": "Medio-bajo"
+        },
+        "Country": {
+            "total_streams": 7719759,
+            "category": "Medio-alto"
+        },
+        "Dancehall": {
+            "total_streams": 9859917,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8909868,
+            "category": "Alto"
+        },
+        "Indie Rock": {
+            "total_streams": 10822527,
+            "category": "Alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 8414878,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 1245007,
+            "category": "Bajo"
+        },
+        "Pop": {
+            "total_streams": 3864342,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 5651727,
+            "category": "Bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 9507906,
+            "category": "Alto"
+        },
+        "Soul": {
+            "total_streams": 5287277,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 8519560,
+            "category": "Medio-alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 7796036,
+            "category": "Medio-alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 5814559,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 8916753,
+            "category": "Alto"
+        },
+        "R&B": {
+            "total_streams": 4602041,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 10743431,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 8708303,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 7938544,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6589692,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 7209829,
+            "category": "Medio-bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 6890804,
+            "category": "Medio-bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 11992911,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 8742630,
+            "category": "Medio-alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 9162385,
+            "category": "Alto"
+        },
+        "Toronto": {
+            "total_streams": 1349819,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 8967858,
+            "category": "Alto"
+        }
+    },
+    "GB": {
+        "Latin": {
+            "total_streams": 9741663,
+            "category": "Alto"
+        },
+        "Rap": {
+            "total_streams": 7638486,
+            "category": "Medio-alto"
+        },
+        "Dance": {
+            "total_streams": 9698320,
+            "category": "Alto"
+        },
+        "K-Pop": {
+            "total_streams": 5217218,
+            "category": "Bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 7412496,
+            "category": "Medio-alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 7289771,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 9098084,
+            "category": "Alto"
+        },
+        "Britpop": {
+            "total_streams": 1286520,
+            "category": "Bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 6518117,
+            "category": "Medio-bajo"
+        },
+        "Electronic": {
+            "total_streams": 1669648,
+            "category": "Bajo"
+        },
+        "New Wave": {
+            "total_streams": 4977399,
+            "category": "Bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 4738329,
+            "category": "Bajo"
+        },
+        "Country": {
+            "total_streams": 4235864,
+            "category": "Bajo"
+        },
+        "Dancehall": {
+            "total_streams": 5740544,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 9352539,
+            "category": "Alto"
+        },
+        "Indie Rock": {
+            "total_streams": 3413108,
+            "category": "Bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 4606282,
+            "category": "Bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 3774197,
+            "category": "Bajo"
+        },
+        "Pop": {
+            "total_streams": 15511201,
+            "category": "Alto"
+        },
+        "Hip Hop": {
+            "total_streams": 9841633,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 7100224,
+            "category": "Medio-bajo"
+        },
+        "Soul": {
+            "total_streams": 7373644,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 5961584,
+            "category": "Medio-bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 11521378,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 8196577,
+            "category": "Medio-alto"
+        },
+        "Hard Rock": {
+            "total_streams": 8176661,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 5954187,
+            "category": "Medio-bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 7546882,
+            "category": "Medio-alto"
+        },
+        "Indie Pop": {
+            "total_streams": 8192861,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 10107897,
+            "category": "Alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 9639796,
+            "category": "Alto"
+        },
+        "Rock": {
+            "total_streams": 18700784,
+            "category": "Alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 6440082,
+            "category": "Medio-bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 1558344,
+            "category": "Bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 1992250,
+            "category": "Bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 6387752,
+            "category": "Medio-bajo"
+        },
+        "Toronto": {
+            "total_streams": 6131122,
+            "category": "Medio-bajo"
+        },
+        "Girl Group": {
+            "total_streams": 9717926,
+            "category": "Alto"
+        }
+    },
+    "IE": {
+        "Latin": {
+            "total_streams": 7533805,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 8113688,
+            "category": "Medio-alto"
+        },
+        "Dance": {
+            "total_streams": 7624347,
+            "category": "Medio-alto"
+        },
+        "K-Pop": {
+            "total_streams": 4773573,
+            "category": "Bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 7016165,
+            "category": "Medio-bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 7977041,
+            "category": "Medio-alto"
+        },
+        "Grunge": {
+            "total_streams": 8082523,
+            "category": "Medio-alto"
+        },
+        "Britpop": {
+            "total_streams": 8742039,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 6639998,
+            "category": "Medio-bajo"
+        },
+        "Electronic": {
+            "total_streams": 8850500,
+            "category": "Alto"
+        },
+        "New Wave": {
+            "total_streams": 9327642,
+            "category": "Alto"
+        },
+        "Uk Garage": {
+            "total_streams": 8054189,
+            "category": "Medio-alto"
+        },
+        "Country": {
+            "total_streams": 10485148,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 5769838,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 11552512,
+            "category": "Alto"
+        },
+        "Indie Rock": {
+            "total_streams": 5724761,
+            "category": "Bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 4531992,
+            "category": "Bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 8290680,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 1283948,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 7037330,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 4596890,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 4142135,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 5377804,
+            "category": "Bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 7596425,
+            "category": "Medio-alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 7785444,
+            "category": "Medio-alto"
+        },
+        "Hard Rock": {
+            "total_streams": 8431137,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 5790757,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 8772238,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 5650738,
+            "category": "Bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 6341223,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 5708704,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 4145561,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 6117272,
+            "category": "Medio-bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 6560504,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 8484443,
+            "category": "Medio-alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 5777852,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 4264921,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 8201588,
+            "category": "Medio-alto"
+        }
+    },
+    "ES": {
+        "Latin": {
+            "total_streams": 9453773,
+            "category": "Alto"
+        },
+        "Rap": {
+            "total_streams": 10421752,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 5165696,
+            "category": "Bajo"
+        },
+        "K-Pop": {
+            "total_streams": 9098585,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 10067125,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 8861398,
+            "category": "Alto"
+        },
+        "Grunge": {
+            "total_streams": 8526045,
+            "category": "Medio-alto"
+        },
+        "Britpop": {
+            "total_streams": 8126713,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 4185014,
+            "category": "Bajo"
+        },
+        "Electronic": {
+            "total_streams": 7469881,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 7976942,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 8005069,
+            "category": "Medio-alto"
+        },
+        "Country": {
+            "total_streams": 8871080,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 8764619,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 6237702,
+            "category": "Medio-bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 6695295,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 7408461,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 8925772,
+            "category": "Alto"
+        },
+        "Pop": {
+            "total_streams": 9331296,
+            "category": "Alto"
+        },
+        "Hip Hop": {
+            "total_streams": 9378758,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 10506422,
+            "category": "Alto"
+        },
+        "Soul": {
+            "total_streams": 6063921,
+            "category": "Medio-bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 7811194,
+            "category": "Medio-alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 7126599,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 4748046,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 7130241,
+            "category": "Medio-bajo"
+        },
+        "R&B": {
+            "total_streams": 6500713,
+            "category": "Medio-bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 5339569,
+            "category": "Bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 9570979,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 3498492,
+            "category": "Bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 8189088,
+            "category": "Medio-alto"
+        },
+        "Rock": {
+            "total_streams": 10290182,
+            "category": "Alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 4278003,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 10571009,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 5143356,
+            "category": "Bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 7491595,
+            "category": "Medio-alto"
+        },
+        "Toronto": {
+            "total_streams": 9357985,
+            "category": "Alto"
+        },
+        "Girl Group": {
+            "total_streams": 6059447,
+            "category": "Medio-bajo"
+        }
+    },
+    "FR": {
+        "Latin": {
+            "total_streams": 4797025,
+            "category": "Bajo"
+        },
+        "Rap": {
+            "total_streams": 10057088,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 1364636,
+            "category": "Bajo"
+        },
+        "K-Pop": {
+            "total_streams": 5932264,
+            "category": "Bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 7266411,
+            "category": "Medio-bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 11230072,
+            "category": "Alto"
+        },
+        "Grunge": {
+            "total_streams": 6714563,
+            "category": "Medio-bajo"
+        },
+        "Britpop": {
+            "total_streams": 5638056,
+            "category": "Bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 7791949,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 6632004,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 10019946,
+            "category": "Alto"
+        },
+        "Uk Garage": {
+            "total_streams": 7417072,
+            "category": "Medio-alto"
+        },
+        "Country": {
+            "total_streams": 9908469,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 9946017,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 7945920,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 7082240,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 8519021,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 5858971,
+            "category": "Bajo"
+        },
+        "Pop": {
+            "total_streams": 8253903,
+            "category": "Medio-alto"
+        },
+        "Hip Hop": {
+            "total_streams": 6865389,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 4389176,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 9203408,
+            "category": "Alto"
+        },
+        "Reggaeton": {
+            "total_streams": 8280428,
+            "category": "Medio-alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 5716033,
+            "category": "Bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 12319179,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 7981441,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 8823800,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 10440069,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 8808675,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 8866331,
+            "category": "Alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6308765,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 5604465,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 11271942,
+            "category": "Alto"
+        },
+        "Pop Soul": {
+            "total_streams": 6985236,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 9265730,
+            "category": "Alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 6970168,
+            "category": "Medio-bajo"
+        },
+        "Toronto": {
+            "total_streams": 8496826,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 8717648,
+            "category": "Medio-alto"
+        }
+    },
+    "DE": {
+        "Latin": {
+            "total_streams": 7704729,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 9034965,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 6358148,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 7745934,
+            "category": "Medio-alto"
+        },
+        "Folk Pop": {
+            "total_streams": 8783393,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 5527379,
+            "category": "Bajo"
+        },
+        "Grunge": {
+            "total_streams": 6156793,
+            "category": "Medio-bajo"
+        },
+        "Britpop": {
+            "total_streams": 5525572,
+            "category": "Bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 11935979,
+            "category": "Alto"
+        },
+        "Electronic": {
+            "total_streams": 7994662,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 8133787,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 4576508,
+            "category": "Bajo"
+        },
+        "Country": {
+            "total_streams": 9889925,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 6848156,
+            "category": "Medio-bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 5890583,
+            "category": "Bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 5420595,
+            "category": "Bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 6840625,
+            "category": "Medio-bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7299442,
+            "category": "Medio-bajo"
+        },
+        "Pop": {
+            "total_streams": 4497186,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 6765973,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 10589016,
+            "category": "Alto"
+        },
+        "Soul": {
+            "total_streams": 5525859,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 9805476,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 7698415,
+            "category": "Medio-alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 4681139,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 4630250,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 5242463,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 4843215,
+            "category": "Bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 7681750,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 7158728,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 9102288,
+            "category": "Alto"
+        },
+        "Rock": {
+            "total_streams": 9951569,
+            "category": "Alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 4947593,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 5940841,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 8686473,
+            "category": "Medio-alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 3443142,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 5244389,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 8263177,
+            "category": "Medio-alto"
+        }
+    },
+    "IT": {
+        "Latin": {
+            "total_streams": 8793946,
+            "category": "Alto"
+        },
+        "Rap": {
+            "total_streams": 8153540,
+            "category": "Medio-alto"
+        },
+        "Dance": {
+            "total_streams": 5970907,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 9891791,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 7414541,
+            "category": "Medio-alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 5327360,
+            "category": "Bajo"
+        },
+        "Grunge": {
+            "total_streams": 5269171,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 6851228,
+            "category": "Medio-bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 7493676,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 2107410,
+            "category": "Bajo"
+        },
+        "New Wave": {
+            "total_streams": 7326398,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 8917420,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 8223858,
+            "category": "Medio-alto"
+        },
+        "Dancehall": {
+            "total_streams": 5565879,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 6818316,
+            "category": "Medio-bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 7572893,
+            "category": "Medio-alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 7982769,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 6285734,
+            "category": "Medio-bajo"
+        },
+        "Pop": {
+            "total_streams": 7967677,
+            "category": "Medio-alto"
+        },
+        "Hip Hop": {
+            "total_streams": 10311927,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 2452147,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 6916400,
+            "category": "Medio-bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 6401581,
+            "category": "Medio-bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 5170993,
+            "category": "Bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 6325805,
+            "category": "Medio-bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 5771248,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 5342955,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 9630118,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 7060145,
+            "category": "Medio-bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 5759112,
+            "category": "Bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 5030223,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 7998521,
+            "category": "Medio-alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 3856660,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 9018110,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 7911625,
+            "category": "Medio-alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 6922150,
+            "category": "Medio-bajo"
+        },
+        "Toronto": {
+            "total_streams": 9765380,
+            "category": "Alto"
+        },
+        "Girl Group": {
+            "total_streams": 8045380,
+            "category": "Medio-alto"
+        }
+    },
+    "NO": {
+        "Latin": {
+            "total_streams": 6836656,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 8376547,
+            "category": "Medio-alto"
+        },
+        "Dance": {
+            "total_streams": 5672245,
+            "category": "Bajo"
+        },
+        "K-Pop": {
+            "total_streams": 6783030,
+            "category": "Medio-bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 9792188,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 9031723,
+            "category": "Alto"
+        },
+        "Grunge": {
+            "total_streams": 7781056,
+            "category": "Medio-alto"
+        },
+        "Britpop": {
+            "total_streams": 5923413,
+            "category": "Bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 7857697,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 6494370,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 7183475,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 8213389,
+            "category": "Medio-alto"
+        },
+        "Country": {
+            "total_streams": 7120129,
+            "category": "Medio-bajo"
+        },
+        "Dancehall": {
+            "total_streams": 8777692,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 6785326,
+            "category": "Medio-bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 6856198,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 8941739,
+            "category": "Alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7135460,
+            "category": "Medio-bajo"
+        },
+        "Pop": {
+            "total_streams": 1279646,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 6641197,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 8636414,
+            "category": "Medio-alto"
+        },
+        "Soul": {
+            "total_streams": 6306452,
+            "category": "Medio-bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 7291418,
+            "category": "Medio-bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 6438646,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 7513246,
+            "category": "Medio-alto"
+        },
+        "Hard Rock": {
+            "total_streams": 7094054,
+            "category": "Medio-bajo"
+        },
+        "R&B": {
+            "total_streams": 8149329,
+            "category": "Medio-alto"
+        },
+        "Soundtrack": {
+            "total_streams": 5863404,
+            "category": "Bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 8932403,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 7584491,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 4947845,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 4077913,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 7660289,
+            "category": "Medio-alto"
+        },
+        "Pop Soul": {
+            "total_streams": 7929935,
+            "category": "Medio-alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 6399665,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 3122370,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 5500462,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 7917271,
+            "category": "Medio-alto"
+        }
+    },
+    "SE": {
+        "Latin": {
+            "total_streams": 6629916,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 6929764,
+            "category": "Medio-bajo"
+        },
+        "Dance": {
+            "total_streams": 9212745,
+            "category": "Alto"
+        },
+        "K-Pop": {
+            "total_streams": 8871655,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 7247443,
+            "category": "Medio-bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6348617,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 5481030,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 7837218,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 7517204,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 8095968,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 9454031,
+            "category": "Alto"
+        },
+        "Uk Garage": {
+            "total_streams": 8807118,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 6041058,
+            "category": "Medio-bajo"
+        },
+        "Dancehall": {
+            "total_streams": 4107849,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8303706,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 11109273,
+            "category": "Alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 7849262,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 9358641,
+            "category": "Alto"
+        },
+        "Pop": {
+            "total_streams": 3341957,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 5047862,
+            "category": "Bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 9447921,
+            "category": "Alto"
+        },
+        "Soul": {
+            "total_streams": 5536246,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 6746306,
+            "category": "Medio-bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 6260714,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 9620275,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 5851932,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 4832863,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 7585751,
+            "category": "Medio-alto"
+        },
+        "Indie Pop": {
+            "total_streams": 6622695,
+            "category": "Medio-bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 1512185,
+            "category": "Bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 9461313,
+            "category": "Alto"
+        },
+        "Rock": {
+            "total_streams": 6220742,
+            "category": "Medio-bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 5380224,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 6595655,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 5798247,
+            "category": "Bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 5402172,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 7771026,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 9632826,
+            "category": "Alto"
+        }
+    },
+    "NG": {
+        "Latin": {
+            "total_streams": 7103513,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 5869360,
+            "category": "Bajo"
+        },
+        "Dance": {
+            "total_streams": 7183355,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 8787117,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 7325248,
+            "category": "Medio-bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 7654504,
+            "category": "Medio-alto"
+        },
+        "Grunge": {
+            "total_streams": 3799635,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 9509252,
+            "category": "Alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 10197219,
+            "category": "Alto"
+        },
+        "Electronic": {
+            "total_streams": 11298565,
+            "category": "Alto"
+        },
+        "New Wave": {
+            "total_streams": 7061331,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 7764536,
+            "category": "Medio-alto"
+        },
+        "Country": {
+            "total_streams": 9402032,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 8591736,
+            "category": "Medio-alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 5244342,
+            "category": "Bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 7094391,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 9619194,
+            "category": "Alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7648174,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 8405198,
+            "category": "Medio-alto"
+        },
+        "Hip Hop": {
+            "total_streams": 6133343,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 5533491,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 10225089,
+            "category": "Alto"
+        },
+        "Reggaeton": {
+            "total_streams": 9336811,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 6252281,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 10643448,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 4208195,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 8587719,
+            "category": "Medio-alto"
+        },
+        "Soundtrack": {
+            "total_streams": 6461403,
+            "category": "Medio-bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 10453095,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 5136609,
+            "category": "Bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6830807,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 6169791,
+            "category": "Medio-bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 7812413,
+            "category": "Medio-alto"
+        },
+        "Pop Soul": {
+            "total_streams": 9196139,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 9993905,
+            "category": "Alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 8203005,
+            "category": "Medio-alto"
+        },
+        "Toronto": {
+            "total_streams": 6137126,
+            "category": "Medio-bajo"
+        },
+        "Girl Group": {
+            "total_streams": 6200953,
+            "category": "Medio-bajo"
+        }
+    },
+    "ZA": {
+        "Latin": {
+            "total_streams": 7960186,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 4791740,
+            "category": "Bajo"
+        },
+        "Dance": {
+            "total_streams": 11206719,
+            "category": "Alto"
+        },
+        "K-Pop": {
+            "total_streams": 6305608,
+            "category": "Medio-bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 6955650,
+            "category": "Medio-bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 9033430,
+            "category": "Alto"
+        },
+        "Grunge": {
+            "total_streams": 6757234,
+            "category": "Medio-bajo"
+        },
+        "Britpop": {
+            "total_streams": 4833298,
+            "category": "Bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 8658596,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 6659637,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 5039109,
+            "category": "Bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 11312741,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 10457737,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 4296140,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 6215350,
+            "category": "Medio-bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 7443419,
+            "category": "Medio-alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 8611862,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 6272147,
+            "category": "Medio-bajo"
+        },
+        "Pop": {
+            "total_streams": 10221923,
+            "category": "Alto"
+        },
+        "Hip Hop": {
+            "total_streams": 8235389,
+            "category": "Medio-alto"
+        },
+        "Nu Metal": {
+            "total_streams": 7449304,
+            "category": "Medio-alto"
+        },
+        "Soul": {
+            "total_streams": 7337376,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 7982057,
+            "category": "Medio-alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 5592249,
+            "category": "Bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 10036048,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 8556680,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 8983280,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 6683906,
+            "category": "Medio-bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 10588287,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 7758034,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 8793503,
+            "category": "Alto"
+        },
+        "Rock": {
+            "total_streams": 7196940,
+            "category": "Medio-bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 8207133,
+            "category": "Medio-alto"
+        },
+        "Pop Soul": {
+            "total_streams": 9080575,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 6098214,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 7425476,
+            "category": "Medio-alto"
+        },
+        "Toronto": {
+            "total_streams": 6656083,
+            "category": "Medio-bajo"
+        },
+        "Girl Group": {
+            "total_streams": 9813629,
+            "category": "Alto"
+        }
+    },
+    "EG": {
+        "Latin": {
+            "total_streams": 6934814,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 5632062,
+            "category": "Bajo"
+        },
+        "Dance": {
+            "total_streams": 5490616,
+            "category": "Bajo"
+        },
+        "K-Pop": {
+            "total_streams": 6347449,
+            "category": "Medio-bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 11636392,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 10212750,
+            "category": "Alto"
+        },
+        "Grunge": {
+            "total_streams": 7876731,
+            "category": "Medio-alto"
+        },
+        "Britpop": {
+            "total_streams": 11908003,
+            "category": "Alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 5636555,
+            "category": "Bajo"
+        },
+        "Electronic": {
+            "total_streams": 8319498,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 6356908,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 6936180,
+            "category": "Medio-bajo"
+        },
+        "Country": {
+            "total_streams": 4176588,
+            "category": "Bajo"
+        },
+        "Dancehall": {
+            "total_streams": 8946399,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8361317,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 6683079,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 5465464,
+            "category": "Bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7657425,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 9075831,
+            "category": "Alto"
+        },
+        "Hip Hop": {
+            "total_streams": 5982543,
+            "category": "Medio-bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 8193954,
+            "category": "Medio-alto"
+        },
+        "Soul": {
+            "total_streams": 6296668,
+            "category": "Medio-bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 7295563,
+            "category": "Medio-bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 6229015,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 7266051,
+            "category": "Medio-bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 9105528,
+            "category": "Alto"
+        },
+        "R&B": {
+            "total_streams": 8794294,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 9319733,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 8697208,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 5980356,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 8377775,
+            "category": "Medio-alto"
+        },
+        "Rock": {
+            "total_streams": 7057495,
+            "category": "Medio-bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 9432863,
+            "category": "Alto"
+        },
+        "Pop Soul": {
+            "total_streams": 8775406,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 5513283,
+            "category": "Bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 7683533,
+            "category": "Medio-alto"
+        },
+        "Toronto": {
+            "total_streams": 6726880,
+            "category": "Medio-bajo"
+        },
+        "Girl Group": {
+            "total_streams": 6573502,
+            "category": "Medio-bajo"
+        }
+    },
+    "RU": {
+        "Latin": {
+            "total_streams": 6262527,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 6693310,
+            "category": "Medio-bajo"
+        },
+        "Dance": {
+            "total_streams": 6989498,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 8155009,
+            "category": "Medio-alto"
+        },
+        "Folk Pop": {
+            "total_streams": 7993249,
+            "category": "Medio-alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6260893,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 10663193,
+            "category": "Alto"
+        },
+        "Britpop": {
+            "total_streams": 10378171,
+            "category": "Alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 6824501,
+            "category": "Medio-bajo"
+        },
+        "Electronic": {
+            "total_streams": 7989521,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 10175554,
+            "category": "Alto"
+        },
+        "Uk Garage": {
+            "total_streams": 5536721,
+            "category": "Bajo"
+        },
+        "Country": {
+            "total_streams": 5446573,
+            "category": "Bajo"
+        },
+        "Dancehall": {
+            "total_streams": 9601354,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 6138791,
+            "category": "Medio-bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 6866791,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 4334098,
+            "category": "Bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7715882,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 6653687,
+            "category": "Medio-bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 8508609,
+            "category": "Medio-alto"
+        },
+        "Nu Metal": {
+            "total_streams": 7943897,
+            "category": "Medio-alto"
+        },
+        "Soul": {
+            "total_streams": 5692128,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 4701598,
+            "category": "Bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 6135685,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 9171894,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 3974848,
+            "category": "Bajo"
+        },
+        "R&B": {
+            "total_streams": 9886123,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 9674093,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 10434722,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 9341269,
+            "category": "Alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 7609659,
+            "category": "Medio-alto"
+        },
+        "Rock": {
+            "total_streams": 8558178,
+            "category": "Medio-alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 5111069,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 5132003,
+            "category": "Bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 5200402,
+            "category": "Bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 9110907,
+            "category": "Alto"
+        },
+        "Toronto": {
+            "total_streams": 9033533,
+            "category": "Alto"
+        },
+        "Girl Group": {
+            "total_streams": 5308213,
+            "category": "Bajo"
+        }
+    },
+    "CN": {
+        "Latin": {
+            "total_streams": 8269226,
+            "category": "Medio-alto"
+        },
+        "Rap": {
+            "total_streams": 9945389,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 9427957,
+            "category": "Alto"
+        },
+        "K-Pop": {
+            "total_streams": 8939697,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 8992752,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6924121,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 8463446,
+            "category": "Medio-alto"
+        },
+        "Britpop": {
+            "total_streams": 5221757,
+            "category": "Bajo"
+        },
+        "Alternative Pop": {
+            "total_streams": 7098068,
+            "category": "Medio-bajo"
+        },
+        "Electronic": {
+            "total_streams": 10410676,
+            "category": "Alto"
+        },
+        "New Wave": {
+            "total_streams": 8713541,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 9147369,
+            "category": "Alto"
+        },
+        "Country": {
+            "total_streams": 10841088,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 9285673,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8704337,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 8207692,
+            "category": "Medio-alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 10856764,
+            "category": "Alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 8943344,
+            "category": "Alto"
+        },
+        "Pop": {
+            "total_streams": 5851008,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 8751935,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 9946294,
+            "category": "Alto"
+        },
+        "Soul": {
+            "total_streams": 8057160,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 6729914,
+            "category": "Medio-bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 9764906,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 7142397,
+            "category": "Medio-bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 9670756,
+            "category": "Alto"
+        },
+        "R&B": {
+            "total_streams": 7780218,
+            "category": "Medio-alto"
+        },
+        "Soundtrack": {
+            "total_streams": 6897238,
+            "category": "Medio-bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 6785449,
+            "category": "Medio-bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 6219285,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6983834,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 8666226,
+            "category": "Medio-alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 5779130,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 9367480,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 7225116,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 4941246,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 10158144,
+            "category": "Alto"
+        },
+        "Girl Group": {
+            "total_streams": 8420409,
+            "category": "Medio-alto"
+        }
+    },
+    "IN": {
+        "Latin": {
+            "total_streams": 4743390,
+            "category": "Bajo"
+        },
+        "Rap": {
+            "total_streams": 9899646,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 6011939,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 4107734,
+            "category": "Bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 8754547,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 7298658,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 5774862,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 7602998,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 5457870,
+            "category": "Bajo"
+        },
+        "Electronic": {
+            "total_streams": 6057524,
+            "category": "Medio-bajo"
+        },
+        "New Wave": {
+            "total_streams": 6251861,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 6177382,
+            "category": "Medio-bajo"
+        },
+        "Country": {
+            "total_streams": 3694294,
+            "category": "Bajo"
+        },
+        "Dancehall": {
+            "total_streams": 6688327,
+            "category": "Medio-bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8245150,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 9227631,
+            "category": "Alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 7109874,
+            "category": "Medio-bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 9689970,
+            "category": "Alto"
+        },
+        "Pop": {
+            "total_streams": 7674189,
+            "category": "Medio-alto"
+        },
+        "Hip Hop": {
+            "total_streams": 8474031,
+            "category": "Medio-alto"
+        },
+        "Nu Metal": {
+            "total_streams": 8058745,
+            "category": "Medio-alto"
+        },
+        "Soul": {
+            "total_streams": 5577158,
+            "category": "Bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 5191797,
+            "category": "Bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 9780077,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 9009072,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 6432448,
+            "category": "Medio-bajo"
+        },
+        "R&B": {
+            "total_streams": 8458406,
+            "category": "Medio-alto"
+        },
+        "Soundtrack": {
+            "total_streams": 8817240,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 9581093,
+            "category": "Alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 6361254,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6349241,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 4360216,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 8295719,
+            "category": "Medio-alto"
+        },
+        "Pop Soul": {
+            "total_streams": 6523835,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 8795696,
+            "category": "Alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 5772251,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 7530681,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 4196084,
+            "category": "Bajo"
+        }
+    },
+    "JP": {
+        "Latin": {
+            "total_streams": 7095512,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 8109682,
+            "category": "Medio-alto"
+        },
+        "Dance": {
+            "total_streams": 7371973,
+            "category": "Medio-alto"
+        },
+        "K-Pop": {
+            "total_streams": 8292232,
+            "category": "Medio-alto"
+        },
+        "Folk Pop": {
+            "total_streams": 5224251,
+            "category": "Bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 5735777,
+            "category": "Bajo"
+        },
+        "Grunge": {
+            "total_streams": 9391896,
+            "category": "Alto"
+        },
+        "Britpop": {
+            "total_streams": 8010410,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 7507807,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 7970213,
+            "category": "Medio-alto"
+        },
+        "New Wave": {
+            "total_streams": 9464508,
+            "category": "Alto"
+        },
+        "Uk Garage": {
+            "total_streams": 8598170,
+            "category": "Medio-alto"
+        },
+        "Country": {
+            "total_streams": 5938965,
+            "category": "Medio-bajo"
+        },
+        "Dancehall": {
+            "total_streams": 8327540,
+            "category": "Medio-alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8176119,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 4136786,
+            "category": "Bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 8668491,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7549631,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 7166922,
+            "category": "Medio-bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 11309955,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 6147590,
+            "category": "Medio-bajo"
+        },
+        "Soul": {
+            "total_streams": 9072060,
+            "category": "Alto"
+        },
+        "Reggaeton": {
+            "total_streams": 9871812,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 9525302,
+            "category": "Alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 10808227,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 7544503,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 8353856,
+            "category": "Medio-alto"
+        },
+        "Soundtrack": {
+            "total_streams": 8933960,
+            "category": "Alto"
+        },
+        "Indie Pop": {
+            "total_streams": 6224753,
+            "category": "Medio-bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 7477330,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 5033782,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 3958914,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 6469116,
+            "category": "Medio-bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 6783751,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 6885762,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 8671102,
+            "category": "Medio-alto"
+        },
+        "Toronto": {
+            "total_streams": 4962940,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 9773638,
+            "category": "Alto"
+        }
+    },
+    "KR": {
+        "Latin": {
+            "total_streams": 10736749,
+            "category": "Alto"
+        },
+        "Rap": {
+            "total_streams": 8854381,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 6796700,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 72752485,
+            "category": "Alto"
+        },
+        "Folk Pop": {
+            "total_streams": 4770620,
+            "category": "Bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 9214606,
+            "category": "Alto"
+        },
+        "Grunge": {
+            "total_streams": 9850794,
+            "category": "Alto"
+        },
+        "Britpop": {
+            "total_streams": 7577569,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 4834669,
+            "category": "Bajo"
+        },
+        "Electronic": {
+            "total_streams": 4291929,
+            "category": "Bajo"
+        },
+        "New Wave": {
+            "total_streams": 8349547,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 5188077,
+            "category": "Bajo"
+        },
+        "Country": {
+            "total_streams": 9584755,
+            "category": "Alto"
+        },
+        "Dancehall": {
+            "total_streams": 6080563,
+            "category": "Medio-bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 9898674,
+            "category": "Alto"
+        },
+        "Indie Rock": {
+            "total_streams": 8587488,
+            "category": "Medio-alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 8350659,
+            "category": "Medio-alto"
+        },
+        "Dolby Atmos": {
+            "total_streams": 5752171,
+            "category": "Bajo"
+        },
+        "Pop": {
+            "total_streams": 1580746,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 8981080,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 5464912,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 7945088,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 9872187,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 7840818,
+            "category": "Medio-alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 5681910,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 8697817,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 8811579,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 7600941,
+            "category": "Medio-alto"
+        },
+        "Indie Pop": {
+            "total_streams": 5883830,
+            "category": "Bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 5175042,
+            "category": "Bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 6117813,
+            "category": "Medio-bajo"
+        },
+        "Rock": {
+            "total_streams": 5411820,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 3823657,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 4773898,
+            "category": "Bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 7952206,
+            "category": "Medio-alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 1807214,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 7628456,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 7541853,
+            "category": "Medio-alto"
+        }
+    },
+    "AU": {
+        "Latin": {
+            "total_streams": 6716939,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 7420715,
+            "category": "Medio-alto"
+        },
+        "Dance": {
+            "total_streams": 10063153,
+            "category": "Alto"
+        },
+        "K-Pop": {
+            "total_streams": 3145910,
+            "category": "Bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 7543245,
+            "category": "Medio-alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 5402851,
+            "category": "Bajo"
+        },
+        "Grunge": {
+            "total_streams": 6719301,
+            "category": "Medio-bajo"
+        },
+        "Britpop": {
+            "total_streams": 9115744,
+            "category": "Alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 7182459,
+            "category": "Medio-bajo"
+        },
+        "Electronic": {
+            "total_streams": 1594097,
+            "category": "Bajo"
+        },
+        "New Wave": {
+            "total_streams": 5614457,
+            "category": "Bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 6259196,
+            "category": "Medio-bajo"
+        },
+        "Country": {
+            "total_streams": 5912812,
+            "category": "Bajo"
+        },
+        "Dancehall": {
+            "total_streams": 9424031,
+            "category": "Alto"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 3926122,
+            "category": "Bajo"
+        },
+        "Indie Rock": {
+            "total_streams": 7843296,
+            "category": "Medio-alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 7324625,
+            "category": "Medio-bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 6804745,
+            "category": "Medio-bajo"
+        },
+        "Pop": {
+            "total_streams": 8667836,
+            "category": "Medio-alto"
+        },
+        "Hip Hop": {
+            "total_streams": 10998990,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 7515387,
+            "category": "Medio-alto"
+        },
+        "Soul": {
+            "total_streams": 6729019,
+            "category": "Medio-bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 8411296,
+            "category": "Medio-alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 8338778,
+            "category": "Medio-alto"
+        },
+        "Swamp Rock": {
+            "total_streams": 9179647,
+            "category": "Alto"
+        },
+        "Hard Rock": {
+            "total_streams": 8158226,
+            "category": "Medio-alto"
+        },
+        "R&B": {
+            "total_streams": 5695183,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 8235885,
+            "category": "Medio-alto"
+        },
+        "Indie Pop": {
+            "total_streams": 8134058,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 1906471,
+            "category": "Bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 5006233,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 1737857,
+            "category": "Bajo"
+        },
+        "Alternative Rock": {
+            "total_streams": 5298860,
+            "category": "Bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 6589750,
+            "category": "Medio-bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 7032940,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 4750786,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 7774702,
+            "category": "Medio-alto"
+        },
+        "Girl Group": {
+            "total_streams": 8803215,
+            "category": "Alto"
+        }
+    },
+    "JM": {
+        "Latin": {
+            "total_streams": 6726979,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 10489636,
+            "category": "Alto"
+        },
+        "Dance": {
+            "total_streams": 6416811,
+            "category": "Medio-bajo"
+        },
+        "K-Pop": {
+            "total_streams": 6817146,
+            "category": "Medio-bajo"
+        },
+        "Folk Pop": {
+            "total_streams": 9047881,
+            "category": "Alto"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6709222,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 4309760,
+            "category": "Bajo"
+        },
+        "Britpop": {
+            "total_streams": 8148503,
+            "category": "Medio-alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 6077396,
+            "category": "Medio-bajo"
+        },
+        "Electronic": {
+            "total_streams": 10298447,
+            "category": "Alto"
+        },
+        "New Wave": {
+            "total_streams": 7612290,
+            "category": "Medio-alto"
+        },
+        "Uk Garage": {
+            "total_streams": 6506897,
+            "category": "Medio-bajo"
+        },
+        "Country": {
+            "total_streams": 8456300,
+            "category": "Medio-alto"
+        },
+        "Dancehall": {
+            "total_streams": 2154338,
+            "category": "Bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8139789,
+            "category": "Medio-alto"
+        },
+        "Indie Rock": {
+            "total_streams": 9219295,
+            "category": "Alto"
+        },
+        "Synth-Pop": {
+            "total_streams": 6853343,
+            "category": "Medio-bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7741963,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 9334515,
+            "category": "Alto"
+        },
+        "Hip Hop": {
+            "total_streams": 5712735,
+            "category": "Bajo"
+        },
+        "Nu Metal": {
+            "total_streams": 8214450,
+            "category": "Medio-alto"
+        },
+        "Soul": {
+            "total_streams": 7076882,
+            "category": "Medio-bajo"
+        },
+        "Reggaeton": {
+            "total_streams": 6995664,
+            "category": "Medio-bajo"
+        },
+        "Regional Mexicano": {
+            "total_streams": 7229233,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 6391668,
+            "category": "Medio-bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 6538623,
+            "category": "Medio-bajo"
+        },
+        "R&B": {
+            "total_streams": 9901717,
+            "category": "Alto"
+        },
+        "Soundtrack": {
+            "total_streams": 5857112,
+            "category": "Bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 8095743,
+            "category": "Medio-alto"
+        },
+        "Dance-Pop": {
+            "total_streams": 7632206,
+            "category": "Medio-alto"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 8562796,
+            "category": "Medio-alto"
+        },
+        "Rock": {
+            "total_streams": 9150395,
+            "category": "Alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 6820536,
+            "category": "Medio-bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 9957031,
+            "category": "Alto"
+        },
+        "Offizielle Charts": {
+            "total_streams": 7727953,
+            "category": "Medio-alto"
+        },
+        "Contemporary R&B": {
+            "total_streams": 3739639,
+            "category": "Bajo"
+        },
+        "Toronto": {
+            "total_streams": 5764723,
+            "category": "Bajo"
+        },
+        "Girl Group": {
+            "total_streams": 7302933,
+            "category": "Medio-bajo"
+        }
+    },
+    "PR": {
+        "Latin": {
+            "total_streams": 7299038,
+            "category": "Medio-bajo"
+        },
+        "Rap": {
+            "total_streams": 6103475,
+            "category": "Medio-bajo"
+        },
+        "Dance": {
+            "total_streams": 8268627,
+            "category": "Medio-alto"
+        },
+        "K-Pop": {
+            "total_streams": 7408316,
+            "category": "Medio-alto"
+        },
+        "Folk Pop": {
+            "total_streams": 6407297,
+            "category": "Medio-bajo"
+        },
+        "Special Purpose Artist": {
+            "total_streams": 6881892,
+            "category": "Medio-bajo"
+        },
+        "Grunge": {
+            "total_streams": 8192834,
+            "category": "Medio-alto"
+        },
+        "Britpop": {
+            "total_streams": 8847387,
+            "category": "Alto"
+        },
+        "Alternative Pop": {
+            "total_streams": 7644866,
+            "category": "Medio-alto"
+        },
+        "Electronic": {
+            "total_streams": 5026485,
+            "category": "Bajo"
+        },
+        "New Wave": {
+            "total_streams": 6802733,
+            "category": "Medio-bajo"
+        },
+        "Uk Garage": {
+            "total_streams": 6863370,
+            "category": "Medio-bajo"
+        },
+        "Country": {
+            "total_streams": 8162617,
+            "category": "Medio-alto"
+        },
+        "Dancehall": {
+            "total_streams": 6345098,
+            "category": "Medio-bajo"
+        },
+        "Psychedelic Rock": {
+            "total_streams": 8860031,
+            "category": "Alto"
+        },
+        "Indie Rock": {
+            "total_streams": 6788621,
+            "category": "Medio-bajo"
+        },
+        "Synth-Pop": {
+            "total_streams": 4815259,
+            "category": "Bajo"
+        },
+        "Dolby Atmos": {
+            "total_streams": 7737107,
+            "category": "Medio-alto"
+        },
+        "Pop": {
+            "total_streams": 4274742,
+            "category": "Bajo"
+        },
+        "Hip Hop": {
+            "total_streams": 9077194,
+            "category": "Alto"
+        },
+        "Nu Metal": {
+            "total_streams": 5474710,
+            "category": "Bajo"
+        },
+        "Soul": {
+            "total_streams": 7346415,
+            "category": "Medio-alto"
+        },
+        "Reggaeton": {
+            "total_streams": 14314061,
+            "category": "Alto"
+        },
+        "Regional Mexicano": {
+            "total_streams": 6630536,
+            "category": "Medio-bajo"
+        },
+        "Swamp Rock": {
+            "total_streams": 4560171,
+            "category": "Bajo"
+        },
+        "Hard Rock": {
+            "total_streams": 6025714,
+            "category": "Medio-bajo"
+        },
+        "R&B": {
+            "total_streams": 5502478,
+            "category": "Bajo"
+        },
+        "Soundtrack": {
+            "total_streams": 6297941,
+            "category": "Medio-bajo"
+        },
+        "Indie Pop": {
+            "total_streams": 7188092,
+            "category": "Medio-bajo"
+        },
+        "Dance-Pop": {
+            "total_streams": 6074084,
+            "category": "Medio-bajo"
+        },
+        "Billboard Hot 100": {
+            "total_streams": 2542905,
+            "category": "Bajo"
+        },
+        "Rock": {
+            "total_streams": 11405212,
+            "category": "Alto"
+        },
+        "Alternative Rock": {
+            "total_streams": 6380640,
+            "category": "Medio-bajo"
+        },
+        "Pop Soul": {
+            "total_streams": 4976769,
+            "category": "Bajo"
+        },
+        "Offizielle Charts": {
+            "total_streams": 7019472,
+            "category": "Medio-bajo"
+        },
+        "Contemporary R&B": {
+            "total_streams": 10655542,
+            "category": "Alto"
+        },
+        "Toronto": {
+            "total_streams": 6808933,
+            "category": "Medio-bajo"
+        },
+        "Girl Group": {
+            "total_streams": 7477765,
+            "category": "Medio-alto"
+        }
+    }
+}

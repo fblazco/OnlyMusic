@@ -9,6 +9,7 @@ export const useWebSocket = () => {
     country: null,
     genre: null,
     music: null,
+    category: null, // <-- NUEVO: Agregamos la categoría al estado inicial
     rawPointer: { x: 0, y: 0 }
   });
 
@@ -36,6 +37,7 @@ export const useWebSocket = () => {
         country: data.country,
         genre: data.genre,
         music: data.music,
+        category: data.category, // <-- NUEVO: Guardamos la categoría que manda el mapper
         rawPointer: data.pointer
       });
     });

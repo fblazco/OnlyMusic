@@ -63,7 +63,7 @@ def generar_hojas_arucos():
 
     ids = REFERENCE_IDS + [POINTER_ID] + sorted(GENRES.keys())
 
-    n_hojas = 4
+    n_hojas = 2
     tam = (len(ids) + n_hojas - 1) // n_hojas  # redondeo hacia arriba
 
     for i in range(n_hojas):
