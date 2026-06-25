@@ -1,122 +1,58 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { useWebSocket } from './hooks/useWebSocket';
+import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const { appState, isConnected, videoFrame } = useWebSocket();
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
+    <div className="container">
+      <header>
+        <h1>Instalación InfoVis 🎧</h1>
+        <div className={`status ${isConnected ? 'online' : 'offline'}`}>
+          Backend: {isConnected ? 'Conectado 🟢' : 'Desconectado 🔴'}
         </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
+      </header>
 
-      <div className="ticks"></div>
+      <main className="dashboard">
+        {/* Cámara en Vivo */}
+        <section className="camera-feed" style={{ marginBottom: '20px' }}>
+          <h2>Cámara en Vivo 📷</h2>
+          {videoFrame ? (
+            <img 
+              src={`data:image/jpeg;base64,${videoFrame}`} 
+              alt="Feed de visión" 
+              style={{ width: '100%', maxWidth: '640px', borderRadius: '8px', border: '2px solid #555' }}
+            />
+          ) : (
+            <div style={{ height: '360px', maxWidth: '640px', backgroundColor: '#222', color: '#aaa', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '8px', border: '2px dashed #444' }}>
+              Esperando señal de video desde Python...
+            </div>
+          )}
+        </section>
 
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
+        {/* Tarjetas de Datos */}
+        <div style={{ display: 'flex', gap: '20px', flexWrap: 'wrap' }}>
+          <section className="card" style={{ flex: '1', minWidth: '250px', padding: '20px', backgroundColor: '#1e1e1e', borderRadius: '8px' }}>
+            <h2>País Seleccionado</h2>
+            <p className="value" style={{ fontSize: '1.5em', fontWeight: 'bold', color: '#4CAF50' }}>
+              {appState.country ? appState.country : "Buscando..."}
+            </p>
+          </section>
 
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+          <section className="card" style={{ flex: '1', minWidth: '250px', padding: '20px', backgroundColor: '#1e1e1e', borderRadius: '8px' }}>
+            <h2>Género Musical</h2>
+            <p className="value" style={{ fontSize: '1.5em', fontWeight: 'bold', color: '#2196F3' }}>
+              {appState.genre ? appState.genre : "Ningún disco detectado"}
+            </p>
+          </section>
+        </div>
+      </main>
+
+      <footer className="debug-info" style={{ marginTop: '40px', padding: '10px', borderTop: '1px solid #333', fontSize: '0.9em', color: '#888' }}>
+        <p>Debug Visión ➔ X: {appState.rawPointer?.x?.toFixed(2)} | Y: {appState.rawPointer?.y?.toFixed(2)}</p>
+      </footer>
+    </div>
+  );
 }
 
-export default App
+export default App;

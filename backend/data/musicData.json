@@ -1,0 +1,9 @@
+{
+  "Chile": {
+    "Rock": { "artist": "Los Prisioneros", "song": "Tren al Sur", "info": "Banda icónica de San Miguel." },
+    "Reggaeton": { "artist": "Cris MJ", "song": "Una Noche en Medellín", "info": "Éxito global del género urbano chileno." }
+  },
+  "Argentina": {
+    "Rock": { "artist": "Soda Stereo", "song": "De Música Ligera", "info": "Himno del rock en español." }
+  }
+}

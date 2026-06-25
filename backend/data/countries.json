@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CL",
+    "name": "Chile",
+    "bounds": { "minX": 0.20, "maxX": 0.40, "minY": 0.60, "maxY": 0.90 }
+  },
+  {
+    "id": "AR",
+    "name": "Argentina",
+    "bounds": { "minX": 0.41, "maxX": 0.60, "minY": 0.60, "maxY": 0.95 }
+  },
+  {
+    "id": "BR",
+    "name": "Brasil",
+    "bounds": { "minX": 0.45, "maxX": 0.85, "minY": 0.20, "maxY": 0.55 }
+  }
+]
